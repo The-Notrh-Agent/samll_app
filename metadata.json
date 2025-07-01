@@ -1,0 +1,5 @@
+{
+  "name": "Daycare Classroom Assignment",
+  "description": "A tool to help daycare administrators import data for children, caregivers, and classrooms, automatically assign children to classrooms based on age and capacity, and manually fine-tune assignments. The application is designed to be user-friendly, visually appealing, and operates entirely in the browser using local storage for data persistence.",
+  "requestFramePermissions": []
+}
